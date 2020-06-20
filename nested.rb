@@ -15,8 +15,8 @@ def hopper
           :languages => ["C"]
         }
      }
-
-programmer_hash
+hopper = programmer_hash[:grace_hopper]
+#instructors = flatiron_school[:instructors]
 end
 
 def alan_kay_is_known_for
